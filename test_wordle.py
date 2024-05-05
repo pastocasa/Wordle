@@ -1,0 +1,2 @@
+import wordle
+import pytest
